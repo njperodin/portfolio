@@ -1,8 +1,8 @@
 title: Naylah Perodin
 logo: /assets/img/headshot.png
-#description: My Portfolio
+description: My Portfolio
 show_downloads: True
-theme: minima
-# remote_theme: pages-themes/minimal@v0.2.0
-# plugins:
-# - jekyll-remote-theme # add this line to the plugins list if you already have one
+#theme: minima
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
