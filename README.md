@@ -30,4 +30,3 @@ Computer Science, Information Systems, Data Science
 
 #### Data Visualization
   - Tableau Dashboard: [Massachusetts Department of Elementary & Secondary Education Dashboard](https://public.tableau.com/app/profile/naylah.perodin/viz/naylah_perodin_ma_education_dashboard/TheDashboard) 
-  - Tableau Story: [NY Trees Data Analysis](https://drive.google.com/file/d/1XQE8YvdhLjEBmWytDv9-3-pQIfZnYDOz/view?usp=drive_link)
