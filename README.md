@@ -3,7 +3,7 @@
 ### Education
 Computer Science, Information Systems, Data Science
 ### Work Experience
-[Resume]()
+[Resume](https://drive.google.com/file/d/1BbnCt0azoaRa1_jGCsB8U6kNKJqWDT8b/view?usp=sharing)
 
 ### Projects
 #### Pyton and R
